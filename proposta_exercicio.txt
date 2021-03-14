@@ -12,7 +12,7 @@ fun diminui(n1: Float, n2: Float): Float{
 }
 
 fun main(){
-	val x = 5F
+    val x = 5F
     val y = 10F
     var resultado = multiplica(y,x)
     println("O resultado é: $resultado")
